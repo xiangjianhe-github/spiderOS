@@ -1,2 +1,2 @@
-# MOS
+# mos
 CVTE Monitor OS

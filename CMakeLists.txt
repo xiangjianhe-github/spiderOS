@@ -54,7 +54,7 @@ else()
 
         include("${project_config}")
 
-        if("${TARGET_PROJECT_NAME}" STREQUAL "first" OR
+        if("${TARGET_PROJECT_NAME}" STREQUAL "spiderOS" OR
                 "${TARGET_PROJECT_NAME}" STREQUAL "${PROJECT_NAME}")
 
             set(TARGET_PROJECT_NAME "${PROJECT_NAME}")

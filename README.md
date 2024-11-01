@@ -1,2 +1,2 @@
-# mos
-CVTE Monitor OS
+# spiderOS
+CVTE Monitor spiderOS

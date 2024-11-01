@@ -1,4 +1,5 @@
 # spiderOS
 CVTE Monitor spiderOS
 
-*xiangjianhe@cvte.com
+-xiangjianhe@cvte.com
+-CVTE
